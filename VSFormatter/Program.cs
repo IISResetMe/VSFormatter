@@ -3,7 +3,6 @@ using System.IO;
 using EnvDTE;
 using EnvDTE80;
 using System.Runtime.InteropServices;
-using System.Windows.Forms;
 
 namespace VSFormatter
 {
